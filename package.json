@@ -1,0 +1,22 @@
+{
+  "name": "teste_com_cypress",
+  "version": "1.0.0",
+  "description": "Automação de front",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adriano1lp/teste_qa_cypress.git"
+  },
+  "author": "Adriano LIma Pereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adriano1lp/teste_qa_cypress/issues"
+  },
+  "homepage": "https://github.com/Adriano1lp/teste_qa_cypress#readme",
+  "dependencies": {
+    "cypress": "^6.5.0"
+  }
+}
